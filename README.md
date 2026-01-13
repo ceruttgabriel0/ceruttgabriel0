@@ -1,10 +1,10 @@
 # Olá, sou Gabriel Cerutt! 👋
-### Tech Sales Specialist | Full Stack Developer
+### Tech Sales | Full Stack Developer
 
 Sou um profissional híbrido que conecta **Negócios, Tecnologia e Marketing**.
-Com forte background em desenvolvimento de software e infraestrutura, atuo facilitando vendas consultivas de soluções complexas, desde a qualificação até o fechamento e sucesso do cliente (CS).
+Com forte experiência em desenvolvimento de software, infraestrutura e marketing digital, atuo facilitando vendas consultivas de soluções complexas, desde a obtenção, qualificação até o fechamento e sucesso do cliente (CS).
 
-**O que eu trago para a mesa:**
+**O que eu consigo oferecer:**
 * 🚀 Capacidade de traduzir requisitos técnicos para linguagem de negócios.
 * 💻 Hands-on em desenvolvimento (Frontend/Backend) para demos e POCs.
 * 📈 Visão orientada a dados (Data-Driven Sales & Marketing).
