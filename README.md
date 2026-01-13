@@ -43,15 +43,6 @@ Com forte experiência em desenvolvimento de software, infraestrutura e marketin
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ceruttgabriel0&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceruttgabriel0&layout=compact&theme=dracula&hide_border=true" />
-</div>
-
----
-
 <div align="center">
   <a href="https://www.linkedin.com/in/gabrielcerutt/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
