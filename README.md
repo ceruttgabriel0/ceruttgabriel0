@@ -1,7 +1,7 @@
 <h1 align="center">Gabriel Cerutt</h1>
 <p align="center">
   <strong>Full Stack Developer · RevOps · SaaS Builder</strong><br/>
-  Nova Iguaçu, RJ · <a href="mailto:gabrielleiros2@gmail.com">gabrielleiros2@gmail.com</a> · <a href="https://linkedin.com/in/gabrielcerutt">LinkedIn</a> · <a href="https://lyntra.com.br">lyntra.com.br</a>
+  Nova Iguaçu, RJ · <a href="mailto:gabrielleiros2@gmail.com">gabrielleiros2@gmail.com</a> · <a href="https://linkedin.com/in/gabrielcerutt">LinkedIn</a>
 </p>
 
 ---
@@ -10,9 +10,7 @@ Estudante de ADS que constrói produtos reais.
 
 Desenvolvi do zero um **CRM SaaS multi-tenant em produção** (FastAPI + React + PostgreSQL + Redis + Celery), um **motor de prospecção B2B automatizada** com scraping, validação, cadências e bot de qualificação com IA, e outros sistemas rodando em VPS própria com Docker e CI/CD.
 
-Na **Healz**, atuo como RevOps: estruturei o processo comercial do zero, implementei o CRM e os pipelines de dados, e contribuí para um crescimento de **+100% no faturamento anual**.
-
-Sou fundador da **Lyntra**, onde desenvolvo automações e produtos SaaS para PMEs.
+Na **Healz**, atuo como RevOps: estruturei o processo comercial do zero, implementei o CRM e os pipelines de dados, contribuindo para um crescimento de **+100% no faturamento anual**.
 
 ---
 
@@ -54,6 +52,5 @@ Plataforma de gestão e gamificação para motoristas com diário de bordo, conq
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceruttgabriel0&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceruttgabriel0&layout=compact&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ceruttgabriel0&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="150"/>
 </p>
