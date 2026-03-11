@@ -1,53 +1,59 @@
-# Olá, sou Gabriel Cerutt! 👋
-### Tech Sales | Full Stack Developer
-
-Sou um profissional híbrido que conecta **Negócios, Tecnologia e Marketing**.
-Com forte experiência em desenvolvimento de software, infraestrutura e marketing digital, atuo facilitando vendas consultivas de soluções complexas, desde a obtenção, qualificação até o fechamento e sucesso do cliente (CS).
-
-**O que eu consigo oferecer:**
-* 🚀 Capacidade de traduzir requisitos técnicos para linguagem de negócios.
-* 💻 Hands-on em desenvolvimento (Frontend/Backend) para demos e POCs.
-* 📈 Visão orientada a dados (Data-Driven Sales & Marketing).
+<h1 align="center">Gabriel Cerutt</h1>
+<p align="center">
+  <strong>Full Stack Developer · RevOps · SaaS Builder</strong><br/>
+  Nova Iguaçu, RJ · <a href="mailto:gabrielleiros2@gmail.com">gabrielleiros2@gmail.com</a> · <a href="https://linkedin.com/in/gabrielcerutt">LinkedIn</a> · <a href="https://lyntra.com.br">lyntra.com.br</a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+Estudante de ADS que constrói produtos reais.
 
-**Development**
+Desenvolvi do zero um **CRM SaaS multi-tenant em produção** (FastAPI + React + PostgreSQL + Redis + Celery), um **motor de prospecção B2B automatizada** com scraping, validação, cadências e bot de qualificação com IA, e outros sistemas rodando em VPS própria com Docker e CI/CD.
+
+Na **Healz**, atuo como RevOps: estruturei o processo comercial do zero, implementei o CRM e os pipelines de dados, e contribuí para um crescimento de **+100% no faturamento anual**.
+
+Sou fundador da **Lyntra**, onde desenvolvo automações e produtos SaaS para PMEs.
+
+---
+
+### 🛠️ Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat&logo=celery&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-**Sales & Marketing Ops**
-![CRM](https://img.shields.io/badge/-CRM_Management-ff6f61?style=flat)
-![Google Ads](https://img.shields.io/badge/-Google_Ads-4285F4?style=flat&logo=google&logoColor=white)
-![Meta Ads](https://img.shields.io/badge/-Meta_Ads-0668E1?style=flat&logo=meta&logoColor=white)
-![Sales](https://img.shields.io/badge/-Inside_Sales-success?style=flat)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux_VPS-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-### 🔭 Projetos em Destaque
+### 🚀 Projetos
 
-#### 🏥 [ClinicFlow AI](LINK_DO_REPOSITORIO)
-*Plataforma de gestão inteligente para clínicas com IA.*
-* **Tech:** NestJS, React, TypeScript, PostgreSQL, OpenAI API.
-* **Foco:** CRM, agendamento e atendimento automatizado.
+#### [Vendly CRM](https://github.com/ceruttgabriel0/CRM) `privado`
+CRM SaaS multi-tenant em produção. Pipeline Kanban, cadências automáticas de follow-up, integração WhatsApp (WAHA/Evolution), e-mail, Meta Ads, formulários públicos e painel admin.  
+`FastAPI` `React` `PostgreSQL` `Redis` `Celery` `Docker` `GitHub Actions`
 
-#### 🚗 [LigaDriver](LINK_DO_REPOSITORIO)
-*Gestão financeira e gamificação para motoristas de app.*
-* **Tech:** React, Node.js, PostgreSQL, Docker.
-* **Foco:** Diário de bordo e rankings estaduais.
+#### [Smart Prospect Engine](https://github.com/ceruttgabriel0/SPE) `privado`
+Motor de prospecção B2B automatizada: scraping Google Maps, validação de WhatsApp + e-mail, scoring, cadência de 7 touchpoints e bot de qualificação com IA multi-provider + agendamento via Cal.com.  
+`Python` `Celery` `Apify` `Playwright` `OpenAI` `OpenRouter` `Cal.com`
+
+#### [ZapFlow IA](https://github.com/ceruttgabriel0/zapflow-ia) `público`
+Backend multi-tenant para atendimento automatizado via WhatsApp com IA. Suporte a texto, áudio e imagem.  
+`FastAPI` `WAHA` `OpenAI` `Docker`
+
+#### [LigaDriver](https://github.com/ceruttgabriel0/ligadriver) `privado`
+Plataforma de gestão e gamificação para motoristas com diário de bordo, conquistas e ranking.  
+`React` `NestJS` `PostgreSQL` `Redis` `Docker`
 
 ---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gabrielcerutt/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:gabrielleiros2@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</div>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ceruttgabriel0&show_icons=true&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceruttgabriel0&layout=compact&theme=dark&hide_border=true" height="150"/>
+</p>
