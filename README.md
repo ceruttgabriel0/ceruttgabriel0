@@ -49,8 +49,11 @@ Plataforma de gestão e gamificação para motoristas com diário de bordo, conq
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceruttgabriel0&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="150"/>
+  <a href="https://linkedin.com/in/gabrielcerutt">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gabrielleiros2@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
